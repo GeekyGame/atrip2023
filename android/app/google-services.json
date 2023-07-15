@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "294491857550",
+    "project_id": "atrip-demo",
+    "storage_bucket": "atrip-demo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294491857550:android:12a5eaca8e658656709fdf",
+        "android_client_info": {
+          "package_name": "com.atrip"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "294491857550-svuma3gaghaf3mmetnd7dtsdhvlenk6l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8eEZ9nyPWA_5cTHm1_ADp0SP0ZvG4Xzw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "294491857550-svuma3gaghaf3mmetnd7dtsdhvlenk6l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
