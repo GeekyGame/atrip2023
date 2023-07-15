@@ -1,4 +1,5 @@
-# atrip
+# aTrip
+![FinalLogo](https://github.com/GeekyGame/atrip2023/assets/63655223/755f2547-0865-4ec0-af80-393b59788411)
 
 A new Flutter project.
 
