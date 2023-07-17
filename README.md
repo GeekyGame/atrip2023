@@ -1,17 +1,15 @@
 # aTrip
-![FinalLogo](https://github.com/GeekyGame/atrip2023/assets/63655223/755f2547-0865-4ec0-af80-393b59788411)
+![FinalLogo,](https://github.com/GeekyGame/atrip2023/assets/63655223/8b4b495e-4a9b-4bb7-95ea-e454921b28b0)
 
-A new Flutter project.
+## Introduction
+"aTrip" is an innovative travel planning application that simplifies the process of planning a trip to Egypt. The app utilizes the Google maps places api to create a comprehensive itinerary tailored to their preferences. With the recent 85.4% increase in arriving tourists in the first half of 2022 and an expected increase in 2023 with the opening of the Grand Egyptian Museum, the demand for efficient and personalized trip-planning solutions has never been higher. The app not only cuts down on the effort and time required for trip planning but also helps expose Egypt's rich hidden sites, wonders, and cities that are not readily available online. aTrip offers all necessary features for travelers, including local emergency contacts with every trip plan, integrated map, and nearby restaurants, making it a one-stop shop for all travel needs.
 
-## Getting Started
+## Frontend
+- Flutter and Dart: Flutter, an open-source UI SDK that utilizes Dart as its programming language.
 
-This project is a starting point for a Flutter application.
+## Backend 
+- Firebase
+- Google Maps Places API
+  
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
